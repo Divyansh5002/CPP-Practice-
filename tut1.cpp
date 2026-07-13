@@ -8,4 +8,5 @@ int main() {
     cout << "the value of a " << a
          << " the value of b " << b;
 
-        return 0;
+    return 0;
+}
